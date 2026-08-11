@@ -1,0 +1,9 @@
+{
+  "name": "siteforge-8p73vcf1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "就发了多少积分列第三",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
